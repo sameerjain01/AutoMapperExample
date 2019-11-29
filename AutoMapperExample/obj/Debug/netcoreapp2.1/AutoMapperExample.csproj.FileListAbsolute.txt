@@ -1,0 +1,11 @@
+C:\Users\Sameer.Jain\source\repos\AutoMapperExample\AutoMapperExample\bin\Debug\netcoreapp2.1\AutoMapperExample.deps.json
+C:\Users\Sameer.Jain\source\repos\AutoMapperExample\AutoMapperExample\bin\Debug\netcoreapp2.1\AutoMapperExample.runtimeconfig.json
+C:\Users\Sameer.Jain\source\repos\AutoMapperExample\AutoMapperExample\bin\Debug\netcoreapp2.1\AutoMapperExample.runtimeconfig.dev.json
+C:\Users\Sameer.Jain\source\repos\AutoMapperExample\AutoMapperExample\bin\Debug\netcoreapp2.1\AutoMapperExample.dll
+C:\Users\Sameer.Jain\source\repos\AutoMapperExample\AutoMapperExample\obj\Debug\netcoreapp2.1\AutoMapperExample.csproj.CoreCompileInputs.cache
+C:\Users\Sameer.Jain\source\repos\AutoMapperExample\AutoMapperExample\obj\Debug\netcoreapp2.1\AutoMapperExample.AssemblyInfoInputs.cache
+C:\Users\Sameer.Jain\source\repos\AutoMapperExample\AutoMapperExample\obj\Debug\netcoreapp2.1\AutoMapperExample.AssemblyInfo.cs
+C:\Users\Sameer.Jain\source\repos\AutoMapperExample\AutoMapperExample\bin\Debug\netcoreapp2.1\AutoMapperExample.pdb
+C:\Users\Sameer.Jain\source\repos\AutoMapperExample\AutoMapperExample\obj\Debug\netcoreapp2.1\AutoMapperExample.dll
+C:\Users\Sameer.Jain\source\repos\AutoMapperExample\AutoMapperExample\obj\Debug\netcoreapp2.1\AutoMapperExample.pdb
+C:\Users\Sameer.Jain\source\repos\AutoMapperExample\AutoMapperExample\obj\Debug\netcoreapp2.1\AutoMapperExample.csprojAssemblyReference.cache
