@@ -9,6 +9,15 @@ Recently while explaining workflow of an application at work, I wasn't able to e
 
 ## Behaviour
 It is a simple console program that uses automapper
+<br/>
+
+The application use simple object mapping where aource and destination have same name. 
+
+Example is explain using Profiles and Projections when destination and source doesn't have identical propert names and may contain complex object.
+
+<br/>
+The next progression from here is using DI for IMapper provided by Microsoft framework.
+
 <br/><br/>
 
 ## Built With
