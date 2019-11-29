@@ -11,14 +11,20 @@ Recently while explaining workflow of an application at work, I wasn't able to e
 It is a simple console program that uses automapper
 <br/>
 
-The application use simple object mapping where aource and destination have same name. 
+The application use simple object mapping where source and destination have same properties name. 
 
-Example is explain using Profiles and Projections when destination and source doesn't have identical propert names and may contain complex object.
+Example also explains using Profiles and Projections when destination and source doesn't have identical property names and may contain complex objects.
 
 <br/>
-The next progression from here is using DI for IMapper provided by Microsoft framework.
+The next progression/iteration from here is to use DI for IMapper provided by Microsoft framework.
+
+<br/>
+
+If you have suggestions to inprove this example please use github to share your thoughts and code.
 
 <br/><br/>
+
+
 
 ## Built With
 C#
